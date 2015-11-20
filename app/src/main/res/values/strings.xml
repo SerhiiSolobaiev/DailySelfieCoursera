@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DailySelfieCoursera</string>
+    <string name="run_camera">Camera</string>
+    <string name="cancel_alarm">Cancel alarm</string>
+    <string name="delete_all">Delete all records</string>
+
+</resources>
